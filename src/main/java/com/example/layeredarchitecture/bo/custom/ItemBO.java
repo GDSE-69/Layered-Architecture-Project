@@ -1,4 +1,4 @@
-package com.example.layeredarchitecture.custom;
+package com.example.layeredarchitecture.bo.custom;
 
 import com.example.layeredarchitecture.model.ItemDTO;
 
